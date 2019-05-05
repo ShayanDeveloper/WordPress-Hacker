@@ -9,7 +9,7 @@
 
 ### :question: How To Run This Script :question:
 ```batch
->> python "WordPress Hacker.py"<br/>
+>> python "WordPress Hacker.py"
 ```
 
 ### :exclamation: Script Options: :exclamation:
