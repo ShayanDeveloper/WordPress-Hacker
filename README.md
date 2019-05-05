@@ -5,7 +5,7 @@
 
 ## :point_down: ScreenShot :point_down:
 
-<img src="http://s9.picofile.com/file/8359504850/Shot1.png" /></br></br>
+<img src="http://s9.picofile.com/file/8359504850/Shot1.png" height="820" width="500"/></br></br>
 
 ## :exclamation: Script Options: :exclamation:
 :low_brightness: Get Information(AdminPage,Usernames,Programmed Language,CMS And ...)<br/>
