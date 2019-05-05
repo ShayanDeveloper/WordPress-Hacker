@@ -11,11 +11,11 @@
 ```batch
 >> python "WordPress Hacker.py"
 ```
-
+<br/>
 ### :exclamation: Script Options: :exclamation:
-:low_brightness: Get Information(AdminPage,Usernames,Programmed Language,CMS And ...)
-:low_brightness: Get Installed Plugins
-:low_brightness: Admin Page Brute Forcer
+:low_brightness: Get Information(AdminPage,Usernames,Programmed Language,CMS And ...)<br/>
+:low_brightness: Get Installed Plugins<br/>
+:low_brightness: Admin Page Brute Forcer<br/><br/>
 
 ## :point_down: Learning Video From Youtube: :point_down:
 <a href="https://youtube.com/watch?v=7lcZtT1VF9o">YouTube.com/watch?v=7lcZtT1VF9o</a></br></br>
