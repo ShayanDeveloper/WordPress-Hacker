@@ -7,15 +7,15 @@
 
 <img src="http://s9.picofile.com/file/8359504850/Shot1.png" /></br></br>
 
-### :question: How To Run This Script :question:
-```batch
->> python "WordPress Hacker.py"
-```
-
 ### :exclamation: Script Options: :exclamation:
 :low_brightness: Get Information(AdminPage,Usernames,Programmed Language,CMS And ...)<br/>
 :low_brightness: Get Installed Plugins<br/>
 :low_brightness: Admin Page Brute Forcer<br/><br/>
+
+### :question: How To Run This Script :question:
+```batch
+>> python "WordPress Hacker.py"
+```
 
 ## :point_down: Learning Video From Youtube: :point_down:
 <a href="https://youtube.com/watch?v=7lcZtT1VF9o">YouTube.com/watch?v=7lcZtT1VF9o</a></br></br>
