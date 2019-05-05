@@ -3,11 +3,11 @@
 <b>:comet:This Script Can Generate,Crack And Check Hash Type!</b></br>
 <b>:pray:Thank's For Using Our Script :)</b></br></br>
 
-### :point_down: ScreenShot :point_down:
+## :point_down: ScreenShot :point_down:
 
 <img src="http://s9.picofile.com/file/8359504850/Shot1.png" /></br></br>
 
-### :exclamation: Script Options: :exclamation:
+## :exclamation: Script Options: :exclamation:
 :low_brightness: Get Information(AdminPage,Usernames,Programmed Language,CMS And ...)<br/>
 :low_brightness: Get Installed Plugins<br/>
 :low_brightness: Admin Page Brute Forcer<br/><br/>
