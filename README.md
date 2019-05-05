@@ -3,9 +3,11 @@
 <b>:comet:This Script Can Generate,Crack And Check Hash Type!</b></br>
 <b>:pray:Thank's For Using Our Script :)</b></br></br>
 
-### :point_down: ScreenShot :point_down:
+## :point_down: ScreenShot :point_down:
 
-![Alt text](http://s9.picofile.com/file/8359504850/Shot1.png "WordPress Hacker")
+<p align="center">
+  <img src="http://s9.picofile.com/file/8359504850/Shot1.png" title="WordPress Hacker">
+</p>
 </br></br>
 
 ## :exclamation: Script Options: :exclamation:
