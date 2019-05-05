@@ -11,7 +11,7 @@
 ```batch
 >> python "WordPress Hacker.py"
 ```
-<br/>
+
 ### :exclamation: Script Options: :exclamation:
 :low_brightness: Get Information(AdminPage,Usernames,Programmed Language,CMS And ...)<br/>
 :low_brightness: Get Installed Plugins<br/>
